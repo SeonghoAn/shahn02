@@ -1,3 +1,4 @@
+
 ---
 layout: archive
 title: "Publications"
@@ -5,32 +6,192 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<p>
+  My research spans computational neuroscience,
+  machine learning, EEG, fMRI, and biomedical
+  applications of artificial intelligence.
+</p>
 
-{% include base_path %}
+<p><small>
+  * Equal contribution.
+  My name is highlighted in bold.
+</small></p>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h2>Journal Articles</h2>
 
+<h3>2025</h3>
 
+<p>
+  <strong>
+    <a href="https://doi.org/10.1038/s41598-025-93385-8">
+      Identification of topological alterations using
+      microstate dynamics in patients with infantile
+      epileptic spasms syndrome
+    </a>
+  </strong><br>
+  <strong>Seong-Ho Ahn*</strong>, Han Na Jang*,
+  Seeun Kim, Min-Jee Kim, Mi-Sun Yum,
+  and Dong-Hwa Jeong.<br>
+  <em>Scientific Reports</em>, 15, 9490 (2025).<br>
+  <a href="https://doi.org/10.1038/s41598-025-93385-8">
+    [Paper]
+  </a>
+</p>
 
+<p>
+  <strong>
+    <a href="https://doi.org/10.1002/smll.202405618">
+      Rational Design of Lipid Nanoparticles for
+      Enhanced mRNA Vaccine Delivery via
+      Machine Learning
+    </a>
+  </strong><br>
+  Seo-Hyeon Bae, Hosam Choi, Jisun Lee,
+  Min-Ho Kang, <strong>Seong-Ho Ahn</strong>,
+  et al.<br>
+  <em>Small</em>, 21(8), 2405618 (2025).<br>
+  <a href="https://doi.org/10.1002/smll.202405618">
+    [Paper]
+  </a>
+</p>
+
+<h3>2024</h3>
+
+<p>
+  <strong>
+    <a href="https://doi.org/10.2196/63476">
+      Discovering Time-Varying Public Interest
+      for COVID-19 Case Prediction in South Korea
+      Using Search Engine Queries:
+      Infodemiology Study
+    </a>
+  </strong><br>
+  <strong>Seong-Ho Ahn*</strong>, Kwangil Yim*,
+  Hyun-Sik Won, Kang-Min Kim,
+  and Dong-Hwa Jeong.<br>
+  <em>Journal of Medical Internet Research</em>,
+  26, e63476 (2024).<br>
+  <a href="https://doi.org/10.2196/63476">
+    [Paper]
+  </a>
+</p>
+
+<h3>2023</h3>
+
+<p>
+  <strong>
+    <a href="https://doi.org/10.3390/ani13203276">
+      Unsupervised Domain Adaptation for Mitigating
+      Sensor Variability and Interspecies
+      Heterogeneity in Animal Activity Recognition
+    </a>
+  </strong><br>
+  <strong>Seong-Ho Ahn</strong>, Seeun Kim,
+  and Dong-Hwa Jeong.<br>
+  <em>Animals</em>, 13(20), 3276 (2023).<br>
+  <a href="https://doi.org/10.3390/ani13203276">
+    [Paper]
+  </a>
+</p>
+
+<h3>2022</h3>
+
+<p>
+  <strong>
+    <a href="https://doi.org/10.3390/healthcare10071255">
+      A Comparative Study on the Influence of
+      Undersampling and Oversampling Techniques
+      for the Classification of Physical Activities
+      Using an Imbalanced Accelerometer Dataset
+    </a>
+  </strong><br>
+  Dong-Hwa Jeong, Se-Eun Kim, Woo-Hyeok Choi,
+  and <strong>Seong-Ho Ahn</strong>.<br>
+  <em>Healthcare</em>, 10(7), 1255 (2022).<br>
+  <a href="https://doi.org/10.3390/healthcare10071255">
+    [Paper]
+  </a>
+</p>
+
+<h2>Peer-Reviewed Conference Papers</h2>
+
+<h3>2026</h3>
+
+<p>
+  <strong>
+    <a href="https://doi.org/10.1109/BCI69045.2026.11435088">
+      Enhancing Reliability of Error-Related
+      Potential Decoding for Multi-Agent Systems:
+      An Offline Feasibility Study using
+      Uncertainty Quantification
+    </a>
+  </strong><br>
+  <strong>Seong-Ho Ahn</strong>, Sungu Nam,
+  Kyungyoon Jung, Pyeong Soo Kim,
+  Sang Jin Jang, Sulgi Kim, Sangwan Lee,
+  and Jaeseung Jeong.<br>
+  <em>14th International Conference on
+  Brain-Computer Interface (BCI)</em>, 2026.<br>
+  <a href="https://doi.org/10.1109/BCI69045.2026.11435088">
+    [Paper]
+  </a>
+</p>
+
+<p>
+  <strong>
+    <a href="https://doi.org/10.1109/BCI69045.2026.11435038">
+      EEG Correlates of Surprise and Reward
+      Prediction Errors in a Probabilistic
+      Learning Task
+    </a>
+  </strong><br>
+  Sungu Nam, <strong>Seong-Ho Ahn</strong>,
+  Kyung Yoon Jung, Sang Jin Jang,
+  Sulgi Kim, Sang Wan Lee,
+  and Jaeseung Jeong.<br>
+  <em>14th International Conference on
+  Brain-Computer Interface (BCI)</em>, 2026.<br>
+  <a href="https://doi.org/10.1109/BCI69045.2026.11435038">
+    [Paper]
+  </a>
+</p>
+
+<h3>2025</h3>
+
+<p>
+  <strong>
+    <a href="https://doi.org/10.1109/BCI65088.2025.10931531">
+      Decoding EEG-based Motor Imagery of
+      Hand Grasp Types for an Amputee Due
+      to Birth Trauma
+    </a>
+  </strong><br>
+  <strong>Seong-Ho Ahn</strong>, Zion Kim,
+  Jun Ha Jung, Hyeon Jun Lee, Heejin Kim,
+  Jungu Cho, and Jaeseung Jeong.<br>
+  <em>13th International Winter Conference on
+  Brain-Computer Interface (BCI)</em>, 2025.<br>
+  <a href="https://doi.org/10.1109/BCI65088.2025.10931531">
+    [Paper]
+  </a>
+</p>
+
+<h3>2024</h3>
+
+<p>
+  <strong>
+    <a href="https://doi.org/10.1109/ICTC62082.2024.10827042">
+      Human Everyday Experience Metric
+      Recognition Based on Classifier Chains
+      Using Heart Rate
+    </a>
+  </strong><br>
+  Seoyeon Kim, <strong>Seong-Ho Ahn</strong>,
+  Min-Seo Kim, Minji Lee,
+  and Dong-Hwa Jeong.<br>
+  <em>15th International Conference on
+  ICT Convergence (ICTC)</em>, 2024.<br>
+  <a href="https://doi.org/10.1109/ICTC62082.2024.10827042">
+    [Paper]
+  </a>
+</p>
