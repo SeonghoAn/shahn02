@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am **Seong-Ho Ahn**, an integrated M.S.–Ph.D. student in the [Department of Brain and Cognitive Sciences](https://bcs.kaist.ac.kr/) at the Korea Advanced Institute of Science and Technology (KAIST), South Korea.
+Hello! I am **Seong-Ho Ahn**, an integrated M.S.–Ph.D. student in the Department of Brain and Cognitive Sciences at the Korea Advanced Institute of Science and Technology (KAIST), South Korea.
 
-My research focuses on understanding **how human thought unfolds over time and how its dynamics are represented in the brain**. I am particularly interested in naturalistic cognition, spontaneous thought, and the neural mechanisms underlying the organization of semantic information.
+My research focuses on understanding how human thought unfolds over time and how its dynamics are represented in the brain. I am particularly interested in naturalistic cognition, spontaneous thought, and the neural mechanisms underlying the organization of semantic information.
 
-To address these questions, I combine **computational neuroscience, natural language processing, and machine learning** with neuroimaging data, including functional magnetic resonance imaging (fMRI) and electroencephalography (EEG).
+To address these questions, I combine computational neuroscience, natural language processing, and machine learning with neuroimaging data, including functional magnetic resonance imaging (fMRI) and electroencephalography (EEG).
 
 My broader goal is to develop interpretable computational frameworks that connect the temporal organization of thoughts, large-scale brain dynamics, and individual differences in cognition.
 
