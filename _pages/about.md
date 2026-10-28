@@ -32,3 +32,7 @@ My broader goal is to develop interpretable computational frameworks that connec
   - Neurological disease analysis with interpretable AI
   - Biomedical signal processing using deep learning
   - Biological and biochemical network analysis using graph mining
+
+## Selected Papers
+
+- Ahn, S. H.†, Yim, K.†, Won, H. S., Kim, K. M.*, & Jeong, D. H.* († equal contributions, * corresponding authors) (2024). Discovering Time-Varying Public Interest for COVID-19 Case Prediction in South Korea Using Search Engine Queries: Infodemiology Study. Journal of Medical Internet Research, 26, e63476. (HEALTH CARE SCIENCES & SERVICES, 2023 JCR IF=5.8, Top 5.5%).
