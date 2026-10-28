@@ -1,64 +1,86 @@
+
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /resume/
 ---
 
-{% include base_path %}
+# Seong-Ho Ahn
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Integrated M.S.–Ph.D. Student**
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Department of Brain and Cognitive Sciences  
+Korea Advanced Institute of Science and Technology (KAIST)  
+Daejeon, Republic of Korea
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Education
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Korea Advanced Institute of Science and Technology (KAIST)**  
+2025 – Present
+
+- Integrated M.S.–Ph.D. Program
+- Department of Brain and Cognitive Sciences
+
+**The Catholic University of Korea**
+2021 - 2025
+
+- Bachelor of Science in Artificial Intelligence
+- Department of Artificial Intelligence
+
+## Research Experience
+
+### Graduate Researcher
+
+**Decision Brain Dynamics Laboratory**  
+KAIST, Department of Brain and Cognitive Sciences  
+2025 – Present
+
+- Computational modeling of spontaneous thought and semantic dynamics
+- Analysis of large-scale neural activity and functional brain networks
+- EEG- and fMRI-based investigations of cognitive processes
+- Machine learning and computational approaches to neural signal analysis
+
+### Undergraduate Researcher
+
+**BRAIN Lab**  
+The Catholic University of Korea
+2021 - 2025
+
+- Machine learning for biomedical and behavioral data
+- EEG analysis and computational modeling
+- Applications of artificial intelligence in healthcare and neuroscience
+
+## Research Interests
+
+- Naturalistic cognition and spontaneous thought
+- Computational semantic modeling and language models
+- Neural dynamics and functional brain connectivity
+- Brain–language representations and temporal context
+- Machine learning for EEG and fMRI
+- Meditation, mind-wandering, and individual differences
+
+## Research Skills
+
+**Neuroimaging and Neural Signal Analysis**
+- Functional MRI (fMRI)
+- Electroencephalography (EEG)
+- Brain network analysis
+- EEG microstate analysis
+
+**Computational Methods**
+- Machine learning and deep learning
+- Natural language processing
+- Representation learning and semantic embeddings
+- Latent state dynamics modeling
+- Statistical and multivariate data analysis
+
+**Programming**
+- Python
+- Matlab
+- R
+- C++
