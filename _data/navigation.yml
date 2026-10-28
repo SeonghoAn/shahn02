@@ -9,10 +9,11 @@
 
 main:
   - title: "About"
-    url: /shahn02/
+    url: /
 
   - title: "Publications"
-    url: /shahn02/publications/
+    url: /publications/
 
   - title: "CV"
-    url: /shahn02/cv/
+    url: /cv/
+
