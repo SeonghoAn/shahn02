@@ -17,12 +17,18 @@ My broader goal is to develop interpretable computational frameworks that connec
 
 - **Naturalistic Cognition and Spontaneous Thought**
   - Semantic organization and temporal dynamics of thought
-  - Mind-wandering, rumination, and meditation
+  - Mind-wandering, creative thinking, dreaming, and meditation
+  - Naturalistic fMRI and semantic processing
+  - Brain-behavior mapping and individual difference analysis
 
 - **Computational and Network Neuroscience**
-  - Dynamic functional connectivity and latent neural states
+  - Dynamic functional connectivity and latent brain states dynamics
   - Brain network organization and temporal information processing
+  - Connectome-constrained neural network
+  - Neural encoding and decoding model
 
-- **Brain–Language Modeling**
-  - Natural language processing and language models
-  - Contextual and semantic representations in the brain
+- **AI Applications for Medicine and Biomedical Engineering**
+  - AI-based time series analysis for healthcare applications
+  - Neurological disease analysis with interpretable AI
+  - Biomedical signal processing using deep learning
+  - Biological and biochemical network analysis using graph mining
