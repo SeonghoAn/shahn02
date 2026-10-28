@@ -1,11 +1,9 @@
 
 ---
+layout: single
 permalink: /
 title: "About Me"
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
 Hello! I am **Seong-Ho Ahn**, an integrated M.S.–Ph.D. student in the Department of Brain and Cognitive Sciences at the Korea Advanced Institute of Science and Technology (KAIST), South Korea.
